@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "active": true,
+  "skill": "plan",
+  "keyword": "$plan",
+  "phase": "planning",
+  "activated_at": "2026-04-29T04:48:30.634Z",
+  "updated_at": "2026-05-05T14:07:25.958Z",
+  "source": "keyword-detector",
+  "session_id": "",
+  "thread_id": "019df86f-d016-7691-82be-33491ba6747d",
+  "turn_id": "019df86f-d048-76f1-84fb-2ecc63ed695c",
+  "active_skills": [
+    {
+      "skill": "plan",
+      "phase": "planning",
+      "active": true,
+      "activated_at": "2026-04-29T04:48:30.634Z",
+      "updated_at": "2026-05-05T14:07:25.958Z",
+      "session_id": "",
+      "thread_id": "019df86f-d016-7691-82be-33491ba6747d",
+      "turn_id": "019df86f-d048-76f1-84fb-2ecc63ed695c"
+    }
+  ],
+  "iteration": 1,
+  "last_turn_at": "2026-05-05T14:42:59.666Z"
+}

@@ -1,0 +1,311 @@
+{
+   "checksum": "8b028e6314b0fd4fd0e054d26d774107",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13333206293000174",
+            "date_last_used": "0",
+            "guid": "69a8633d-0bc6-44f8-a135-b77412b31e2f",
+            "id": "7",
+            "name": "新建标签页",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 0
+         }, {
+            "date_added": "13333897436724323",
+            "date_last_used": "13359877581265783",
+            "guid": "1b49a0b7-b1cd-4bdb-9c76-103a26b4f7f9",
+            "id": "8",
+            "name": "抖音-记录美好生活",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.douyin.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13340624512831258",
+            "date_last_used": "13387209861286715",
+            "guid": "9d5bc19e-4d44-43df-bda2-319303463118",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "甜心选择2中文版 – 玩起来游戏",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.688qf.com/459/",
+            "visit_count": 1
+         }, {
+            "date_added": "13340624519247946",
+            "date_last_used": "0",
+            "guid": "2d74e192-39e9-4ffb-90b7-06f20ba1b646",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "乐猪游戏-单机游戏_单机游戏下载_安卓游戏网游单机手机游戏",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lezhugame.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13341462948474248",
+            "date_last_used": "13398573480219998",
+            "guid": "fc16bf35-fc33-46b6-9088-11d4952c4a07",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "教学一体化服务平台",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://jwxt.yznu.edu.cn/jsxsd/framework/xsMain.jsp",
+            "visit_count": 23
+         }, {
+            "date_added": "13341463011282000",
+            "date_last_used": "13402400295856402",
+            "guid": "84c93df1-0910-474d-8753-fedae7517374",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "长江师范学院网络教学平台",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://yznu.fanya.chaoxing.com/portal",
+            "visit_count": 77
+         }, {
+            "date_added": "13341858744755701",
+            "date_last_used": "13380373236719037",
+            "guid": "61d62a56-4fd3-423d-b28a-2b184520775c",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nexus 模组和社区的模组",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.nexusmods.com/mods/",
+            "visit_count": 2
+         }, {
+            "date_added": "13342004060094225",
+            "date_last_used": "13401210318568898",
+            "guid": "07ca5c1a-dc20-4b46-bc34-38316845394d",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bilibili.com/",
+            "visit_count": 24
+         }, {
+            "date_added": "13343732816884950",
+            "date_last_used": "13343796794801575",
+            "guid": "7837d66d-ae88-4c03-95e2-7ba7bb0affa8",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "首页",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.educoder.net/users/p4r7xbozn/classrooms",
+            "visit_count": 0
+         }, {
+            "date_added": "13345723426944005",
+            "date_last_used": "13401479399793814",
+            "guid": "5716c95e-26f0-49a3-a55a-411b20512442",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "单机游戏_单机游戏下载_单机游戏大全中文版下载_3DM游戏网",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.3dmgame.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13355312572921950",
+            "date_last_used": "0",
+            "guid": "42195be1-4b67-4f2a-abdf-af38e737b697",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ASMR基佬中心引导",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://asmr.gay/?ref=nav.liesys.com",
+            "visit_count": 0
+         }, {
+            "date_added": "13369624512191320",
+            "date_last_used": "0",
+            "guid": "2aee740e-baed-4390-bee1-01ff843174a0",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13373775624479703",
+            "date_last_used": "0",
+            "guid": "53cd60a8-30f1-4ff9-9845-b6731a0cfcfd",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DataCon",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://datacon.qianxin.com/competition/competitions/86/introduction",
+            "visit_count": 1
+         }, {
+            "date_added": "13373775633879932",
+            "date_last_used": "0",
+            "guid": "7515f621-dc82-4b2e-900c-e5494d35c212",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "我的大赛",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://e.huawei.com/cn/talent/usercenter/#/home/myComp",
+            "visit_count": 1
+         }, {
+            "date_added": "13375972930113472",
+            "date_last_used": "0",
+            "guid": "004b33e1-dde5-45ef-b870-f5cf47f76bf0",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "云服务器管理控制台",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ecs.console.aliyun.com/securityGroupDetail/region/cn-chengdu/groupId/sg-2vchzrfc4zf3ty5u5qu5/detail/intranetIngress",
+            "visit_count": 1
+         }, {
+            "date_added": "13375981536772045",
+            "date_last_used": "0",
+            "guid": "4ae998a3-506a-4717-a8f9-5af5e5ca6cd3",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "iZ2vcezxj1grkf5tkiyye5Z - 8.137.37.239China (Chengdu)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ecs-workbench.aliyun.com/?from=ecs&instanceType=ecs&regionId=cn-chengdu&instanceId=i-2vcezxj1grkf5tkiyye5&resourceGroupId=&language=zh-CN",
+            "visit_count": 1
+         }, {
+            "date_added": "13375981545339672",
+            "date_last_used": "0",
+            "guid": "3f53e8af-05a4-4850-a1e6-9cf7d35c082c",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "宝塔Linux面板",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://8.137.37.239:37051/",
+            "visit_count": 1
+         }, {
+            "date_added": "13385191468160381",
+            "date_last_used": "13385461927915770",
+            "guid": "22265e3e-d008-4f55-823e-9ec809406892",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DeepSeek - 探索未至之境",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.deepseek.com/",
+            "visit_count": 2
+         }, {
+            "date_added": "13385462227018666",
+            "date_last_used": "0",
+            "guid": "894b025f-eec7-4853-8dc1-916c8d16b862",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "腾讯元宝 - 轻松工作 多点生活",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://yuanbao.tencent.com/chat/naQivTmsDa/4f0e1997-b5a4-448f-8eb5-7e0807b9578d",
+            "visit_count": 1
+         } ],
+         "date_added": "13421923523346870",
+         "date_last_used": "0",
+         "date_modified": "13385462227018666",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "收藏夹栏",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13421923523346870",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13421923523346870",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13421923523346870",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "工作区",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCNv2QNidAQAAKg4QABgBIAAoBjAAOABAABIAKhhDenhMc3EwcmkwWGxiS0NCVERhdExRPT1IA6AGDBKvAQgYEqoBChx1S0ZVK1Y5Tmt3VzNUOWpuV0h1Z3NsUjFQTVU9EiQyMjI2NWUzZS1kMDA4LTRmNTUtODIzZS05ZWM4MDk0MDY4OTIYACAAKAAwtpqOrfgyOLKU+9bUMkCylPvW1DJKHGVlSmo0NkNGZmdCWkg5eGZoQ3h3UytJa25QOD1aISIf//+6SkxCd0YrTnk5WnN3dzFYNXpyOTNFWFFVNHF3PWVrcHHLwj4CYAUSrgEIFxKpAQocejREeWFpNHVKSDBDM3M0M21IaVZMR1NZNGx3PRIkM2Y1M2U4YWYtMDVhNC00ODUwLWExZTYtOWNmN2QzNWMwODJjGAAgACgAMPeMqq+yMjjJjqqvsjJAyY6qr7IyShxWaStPaXF2MHZ0dndQY2lTVDFHT1ZqNHloYzQ9WiAiHv//dFpNU3R2cllhZ0hRTDFJQUZiSDd0bnh5TTI4PWXl9x4Awj4CYAUSrgEIFhKpAQocdEt5TDUyMmVxR2w3SEtKVGxMSnpaa0xEei9ZPRIkNGFlOTk4YTMtNTA2YS00NzE3LWE4ZjktNWFmNWU1Y2E2Y2QzGAAgACgAMIz3qa+yMjjO+6mvsjJAzvupr7IyShxtaWlaMWVmdUExTmR3R2JoUzlHcnkrNE4yRlE9WiAiHv/+dHJJR3Uzdk1XRGh3cE9DYUFoMTlLdUhtZzI0PWWuBOqWwj4CYAUSrgEIFRKpAQocVTZrOXJ5ZGErSk5VUlU0eDM5TGh2Y1VERUZNPRIkMDA0YjMzZTEtZGRlNS00NWVmLWI4NzAtZjVjZjQ3Zjc2YmYwGAAgACgAMI+gnKuyMjiFpJyrsjJAhaScq7IyShwvL2dsZ1hnV1BDRjJ0WGVvNXZ6bmUxSC93Z1E9WiAiHv/9cHd5dVRrQlRmREZBVzVKYzBpRW5ubHQyVW1zPWUCUamwwj4CYAUSrgEIFBKpAQoccm5xWFlBMXBZalYzSDFwNlpvMDVRVkhpNHI4PRIkNzUxNWY2MjEtZGM4Mi00YjJlLTkwMGMtZTU0OTRkMzVjMjEyGAAgACgAMLz2u5OqMjiK+LuTqjJAivi7k6oyShxnbDEzVCtqYmdCaC9qL1JwdGg2VEJ5SVBxQlk9WiAiHv/7QkQ1SkoyTmlQK1FWQlRMYXNIMWQ2c0JPZWFFPWVZ/go1wj4CYAUSrgEIExKpAQocOXk4akN4S1VVQjBXTFRBa3NSdTJJNjdLemJRPRIkNTNjZDYwYTgtMzBmMS00ZmY5LTk4NDUtYjY3MzFhMGNmY2ZkGAAgACgAMO2qu5OqMjj7rruTqjJA+667k6oyShxQOHhxMDkzcEJ5NEQyZi9jUFlPWndIazhubmc9WiAiHv/3YkNYOE16ZUZuUE9yUVhxUlpXTEN3dUtvR3hJPWU1qEtDwj4CYAUSrQEIDxKoAQocbVhoSmw3b3pkUmpDbFp6QTF1Tkx3RTJLK0o4PRIkNzgzN2Q2NmQtYWU4OC00YzAzLTk1ZTItN2JhN2JiMGFmZmE4GAAgACgAMILwuLy6MTi+8/edujFAvvP3nboxShx3Tlp6WVl0VjFUME1xL1pUSCtNZ2hrR01FUkk9Wh8iHf9xK244RmpEdVRvVDdab1BRWlBuZjhZVEhkemM9ZftZZjbCPgJgBRKuAQgQEqkBChx1alhERnNkSWtiVC9pT1BhV3E0eWU1TmZEblU9EiQ1NzE2Yzk1ZS0yNmYwLTQ5YTMtYTU1YS00MTFiMjA1MTI0NDIYACAAKAAwz43UrZEzONSHkdPBMUDUh5HTwTFKHHFNTGtlN3MvdTlsLzJyc1RRZlhYYjNDRElqZz1aICIe/7hFZzdtK1ZsY3Y0Q2JlUGRtemhUQjVabUs2MTA9ZflJlZnCPgJgBRKtAQgMEqgBChxkNXdTSnJCbnhnQ3BKWU0wRk5zWFNOdVhsc3c9EiQ4NGM5M2RmMS0wOTEwLTQ3NGQtODc1My1mZWRhZTc1MTczNzQYACAAKAAw9dXi5JQzOOH+zeOxMUDh/s3jsTFKHDdTQVBSaXBNV015VlBGd1V3ZVRiNGh4QUxjQT1aHyId+1ltSGQrUWVYRkVZb0hzVElHSE5YV29TSVBYbz1lzJEhCcI+AmAFEq0BCA4SqAEKHGEzVXpBLzExL0NrWUtsS1IxTU9YRUNLdmRhTT0SJDA3Y2E1YzFhLWRjMjAtNGI0Ni1iYzM0LTM4MzE2ODQ1Mzk0ZBgAIAAoADDQhq2tkDM4n5DN5bMxQJ+QzeWzMUocMVAweGcwOXlrei8xd1puallDT0xGeU5iVFB3PVofIh3+bUV1T0xOV0w0YTJlUlhGbkdzSlJ4YnhEWFJzPWWkXjzXwj4CYAUSrAEIBxKnAQocTjdMSGFVbXpJVWhucGtoeWpBRFJweWwzTG9FPRIkNjlhODYzM2QtMGJjNi00NGY4LWExMzUtYjc3NDEyYjMxZTJmGAAgACgAMKGkusHdMzi1/L+CkzFAtfy/gpMxShxWSjVIZFVQb2gwUFI3dERKNXZIVCtCdEszTFE9Wh4iHHp2WkE4bVBSMWdFWit0VVJUbWVmU3FpK3hIMD1l2K+wAsI+AmAFEq0BCAgSqAEKHG5IL2Y1NG5oQlNKRHFkRE5Qc3FlTjU1dTdUVT0SJDFiNDlhMGI3LWIxY2QtNGJkYi05Yzc2LTEwM2EyNmI0ZjdmORgAIAAoADDSzq6w9jE44vSHzJUxQOL0h8yVMUocYlkyNUF6SmFrYmR5dEZwQlhHaUdQY1YveEpFPVofIh29ajN6bmpZYk5PaGxGMXlhTzg3OTIxdmkzM0Y0PWX313n5wj4CYAUSrwEIGRKqAQocakpHMHNrbkNOL2dxZzNwMWE1OFI4My9FeFQ0PRIkODk0YjAyNWYtZWVjNy00ODUzLThkYzEtOTE2YzhkMTZiODYyGAAgACgAMI3wiNjVMjix8YjY1TJAsfGI2NUyShxJem1YV1N3RFRMT3c0c0VCTXBBK255V3hmMWs9WiEiH///3UZRVmVabW9RNFFCUm1BUFJYRUVGaXo4dUNoRT1lvAgwQsI+AmAFEq0BCAoSqAEKHFhTK1RiN0Z3UjYycnI0MVhCQmc2UEdObTdpST0SJDJkNzRlMTkyLTM5ZTktNGZmYi05MGI3LTA2ZjIwYmExYjY0NhgAIAAoADCTvuTTrjE49r7k064xQPa+5NOuMUocZWhOVmNYZHRSeFRMeWFtcFNzWEtvaVVucEpVPVofIh3vOWVmck1ONFova1lLQVhyQk9GSXJuaDhJNDBnPWWRwCmiwj4CYAUSrQEIDRKoAQocNVRVSHhEODEyQjArcWt6a01sdGdUUzRoSHNBPRIkNjFkNjJhNTYtNGZkMy00MjNkLWIyOGEtMmIxODQ1MjA3NzVjGAAgACgAMLO4ut3CMjitzqegszFArc6noLMxShxmdkdZb2tuc29aalBPNnYyMEpjOVFOeVZHeGc9Wh8iHf1iVnlTeFAxTkdkbTJKUThUUG5FVVUrY1FRQ3M9ZSoFd3TCPgJgBRKtAQgLEqgBChxCQys5RFZKbW1IR2Z4S2tuTEhYS2U1MWRZVWs9EiRmYzE2YmYzNS1mYzMzLTQ2YjYtOTA4OC0xMWQ0OTUyYzRhMDcYACAAKAAw0KeAxIYzOLKWyuOxMUCylsrjsTFKHDVWeDE4Mi92aElzazVpUmhkU3NzanZKNkk5QT1aHyId9zVEZXVEd0lFOW54amZaUVBpWjNpR3VlZzVXZz1lAAAAAMI+AmAFEo4BCAUSiQEKHHdSQnJaTCs2UEE5YXZLZ2pOUDdKWERMY2Z2cz0SJGVmNDhiZjgzLWE1MWMtNTc5Ni1hZDA0LWM0OGFmN2YxMGEwYhgAIAAoADD9lKDB3TM4qpegwd0zQKqXoMHdM0ocbm14NjVzUUR2eEk4VGdFZXYrQStudHRvU240PVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRhOTM5MWQ2Yi1hMTI0LTVkYmYtYjM2NS0yYjYzNDc2N2UyMTYYACAAKAAwzp+wuJExOO2isLiRMUDtorC4kTFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrgEIERKpAQocQVBLOXI4NFpQclVBQnl4bFRlWXRkMDlBUys0PRIkNDIxOTViZTEtNGI2Ny00ZjJhLWFiZGYtYWYzOGU3MzdiNjk3GAAgACgAMLyNzK/lMTi3jsyv5TFAt47Mr+UxShx0WmViS2FYZkZkaEpoTVMwMG1vQ0M5YU1ZRUU9WiAiHv/cT2JKeVZzREZKQnc0cm1oVEtDNUxMMVZONFFRPWUAAAAAwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYWVhZmQ0OWMtYWYxYy01ZGM3LTk4NmYtYzlkYjg4YWZkMzZkGAAgACgAMM2fsLiRMTjaorC4kTFA2qKwuJExShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEq0BCAkSqAEKHFN4VlBFTDgyeDFReHVuZkxHem1QcVJOemNXWT0SJDlkNWJjMTllLTRkNDQtNDNkZi1iZGEyLTMxOTMwMzQ2MzExOBgAIAAoADDpmrSZ3DI4vZTk064xQL2U5NOuMUocSWRJYWNnbnIxaXlacU0wblhZdWZ5WXFCTnpvPVofIh3eRmR1dkd5N2JZMnczUTZTdTJzZWFqTHVJd1FvPWXUwjM6wj4CYAUSrgEIEhKpAQocTWt1ejdqeEJGZDB6dHE1RGk4VUpZWGhVelU0PRIkMmFlZTc0MGUtYmFlZC00MzkwLWJlZTEtMDFmZjg0MzE3NGEwGAAgACgAMIvAi4vmMji5vofYmjJAub6H2JoyShxXWnNQUUpaTU9Bb25WQWVZMWl3dFlMTjdqblE9WiAiHv/uS3grUyt4bEppZkNCb3k5VzQwckRzdkFPUHVNPWX9nIxKwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZWYyODI1MTQtMDQyYy01ZDVhLWI3M2ItZjhiZGM5M2Q0Zjc5GAAgACgAMNOfsLiRMTiWo7C4kTFAlqOwuJExShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
